@@ -10,4 +10,4 @@ def calculate_eigenvalues(matrix: torch.Tensor) -> torch.Tensor:
     delta = torch.sqrt((a+d)**2-4*(a*d-b*c))
     lamda1 = ((a+d)+delta) / 2
     lamda2 = ((a+d)-delta) / 2
-    return torch.tensor([lamda1, lamda2])
+    return torch.stack([lamda1, lamda2])
