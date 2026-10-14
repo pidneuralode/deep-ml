@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:36:32.966Z",
+  "generated_at": "2026-10-14T08:52:29.951Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-10-14T08:36:32.116Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1403": {
+      "kind": "problem",
+      "id": "1403",
+      "title": "Deep and Cross Network: Cross Layers v1 and v2",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1403",
+      "path": "problems/1403-deep-and-cross-network-cross-layers-v1-and-v2",
+      "first_solved_at": "2026-10-14T08:52:28.121Z",
+      "last_pushed_at": "2026-10-14T08:52:28.121Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
