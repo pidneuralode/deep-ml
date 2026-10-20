@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 12 problems · 0 labs · 0 math
+**13** solved · 13 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-11 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-14 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-10 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Register Blocking: Intensity and Register Budget of a Micro-Tile](https://www.deep-ml.com/problems/1522) | easy | 2026-10-20 | [solution](problems/1522-register-blocking-intensity-and-register-budget-of-a-micro-tile) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-10 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-11 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Array Drills: Product Except Self, 3Sum, Find Peak, Maximum Swap](https://www.deep-ml.com/problems/1173) | medium | 2026-10-15 | [solution](problems/1173-array-drills-product-except-self-3sum-find-peak-maximum-swap) |
