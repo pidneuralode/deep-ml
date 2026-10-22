@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:46:36.588Z",
+  "generated_at": "2026-10-22T03:53:36.894Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,19 @@
       "last_pushed_at": "2026-10-20T04:46:35.567Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:200": {
+      "kind": "problem",
+      "id": "200",
+      "title": "Implement RMSProp Optimizer",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/200",
+      "path": "problems/0200-implement-rmsprop-optimizer",
+      "first_solved_at": "2026-10-22T03:53:35.340Z",
+      "last_pushed_at": "2026-10-22T03:53:35.340Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
