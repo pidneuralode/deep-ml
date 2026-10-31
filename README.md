@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Register Blocking: Intensity and Register Budget of a Micro-Tile](https://www.deep-ml.com/problems/1522) | easy | 2026-10-20 | [solution](problems/1522-register-blocking-intensity-and-register-budget-of-a-micro-tile) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-10 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-11 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-31 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Array Drills: Product Except Self, 3Sum, Find Peak, Maximum Swap](https://www.deep-ml.com/problems/1173) | medium | 2026-10-15 | [solution](problems/1173-array-drills-product-except-self-3sum-find-peak-maximum-swap) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Deep and Cross Network: Cross Layers v1 and v2](https://www.deep-ml.com/problems/1403) | medium | 2026-10-14 | [solution](problems/1403-deep-and-cross-network-cross-layers-v1-and-v2) |
